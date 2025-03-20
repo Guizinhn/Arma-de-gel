@@ -16,8 +16,7 @@
         </ul>
         <h2>⚙️ Tecnologias Utilizadas</h2>
         <ul>
-            <img src="https://images.tcdn.com.br/img/img_prod/856292/brinquedo_metralhadora_ak47_arma_de_gel_eletrica_automatica_1921_1_47a87f568560c03fc226b8081c8c7ad7.jpeg"/>
-            <li>HTML, CSS e JavaScript</li>
+            <img src="[https://www.homehost.com.br/blog/tutoriais/o-que-e-html/](https://es.fiverr.com/thulitha/edit-html-and-css-on-your-webpage)">
             <li>Frameworks modernos para melhor experiência</li>
             <li>Banco de dados para armazenamento de produtos e avaliações</li>
         </ul> 
@@ -26,6 +25,7 @@
         <h2>📞 Contato</h2>
         <p>Ficou com dúvidas ou quer saber mais? Entre em contato pelo e-mail: <code>contato@armasdegel.com</code></p>
         <p><em>Divirta-se e aproveite a melhor experiência com armas de gel! 🔫</em></p>
+         <img src="https://images.tcdn.com.br/img/img_prod/856292/brinquedo_metralhadora_ak47_arma_de_gel_eletrica_automatica_1921_1_47a87f568560c03fc226b8081c8c7ad7.jpeg"/>
     </div>
 </body>
 </html>
