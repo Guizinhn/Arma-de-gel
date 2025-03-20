@@ -16,6 +16,7 @@
         </ul>
         <h2>⚙️ Tecnologias Utilizadas</h2>
         <ul>
+            <img src="https://images.tcdn.com.br/img/img_prod/856292/brinquedo_metralhadora_ak47_arma_de_gel_eletrica_automatica_1921_1_47a87f568560c03fc226b8081c8c7ad7.jpeg"/>
             <li>HTML, CSS e JavaScript</li>
             <li>Frameworks modernos para melhor experiência</li>
             <li>Banco de dados para armazenamento de produtos e avaliações</li>
