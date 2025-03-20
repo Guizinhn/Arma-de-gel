@@ -18,7 +18,7 @@ O Gel Blaster Store é um site dedicado à venda de armas de gel básicas e aces
 🚀 Tecnologias Utilizadas
 
 Frontend:
-<img src="https://bognarjunior.wordpress.com/2014/11/23/quais-as-diferencas-entre-as-versoes-4-e-5-do-html/"> 
+<img src="file:///C:/Users/gugui/Downloads/logo-2582747_1280.webp"> 
 <img src="https://pixabay.com/pt/images/search/css/"> 
 
 📦 Como Instalar e Rodar Localmente
