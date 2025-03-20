@@ -16,7 +16,7 @@
         </ul>
         <h2>⚙️ Tecnologias Utilizadas</h2>
         <ul>
-            <img src="[https://www.homehost.com.br/blog/tutoriais/o-que-e-html/](https://es.fiverr.com/thulitha/edit-html-and-css-on-your-webpage)">
+            <li>HTML,CSS</li>
             <li>Frameworks modernos para melhor experiência</li>
             <li>Banco de dados para armazenamento de produtos e avaliações</li>
         </ul> 
