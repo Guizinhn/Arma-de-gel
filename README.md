@@ -1,66 +1,60 @@
-
-🛠️ Sobre o Projeto
-
-O Gel Blaster Store é um site dedicado à venda de armas de gel básicas e acessórios para iniciantes e entusiastas. Nossa plataforma oferece um catálogo variado, informações detalhadas sobre os produtos e uma experiência de compra segura e fácil.
-
-🎯 Recursos Principais
-
-🏹 Catálogo Completo: Lista de armas de gel com descrição, imagens e preços.
-
-🔍 Filtro de Produtos: Encontre rapidamente o equipamento ideal.
-
-🛒 Carrinho de Compras: Gerencie seus produtos antes da compra.
-
-🔐 Checkout Seguro: Pagamento protegido para sua segurança.
-
-📖 Blog: Dicas, tutoriais e regras para o uso das armas de gel.
-
-🚀 Tecnologias Utilizadas
-
-Frontend:
-<img src="file:///C:/Users/gugui/Downloads/logo-2582747_1280.webp"> 
-<img src="https://pixabay.com/pt/images/search/css/"> 
-
-📦 Como Instalar e Rodar Localmente
-
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/gel-blaster-store.git
-
-Acesse a pasta do projeto:
-
-cd gel-blaster-store
-
-Instale as dependências:
-
-npm install
-
-Inicie o servidor:
-
-npm start
-
-Acesse no navegador:
-
-http://localhost:3000
-
-🤝 Contribuição
-
-Quer ajudar a melhorar o site? Siga os passos:
-
-Faça um fork do repositório.
-
-Crie uma branch para suas mudanças: git checkout -b minha-feature
-
-Faça suas modificações e commit: git commit -m 'Adicionando nova feature'
-
-Envie para análise: git push origin minha-feature
-
-Abra um Pull Request!
-
-📩 Contato
-
-Para dúvidas ou parcerias, entre em contato:
-📧 Email: contato@gelblasterstore.com
-📱 Instagram: @gelblasterstore
-
-💥 Divirta-se e aproveite sua experiência com as armas de gel! 💥
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README - Armas de Gel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1, h2 {
+            color: #444;
+        }
+        code {
+            background-color: #eee;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bem-vindo ao nosso site de Armas de Gel</h1>
+        <p>Este é um site dedicado a apaixonados por <strong>armas de gel</strong>, oferecendo informações, reviews e produtos relacionados a este hobby empolgante!</p>
+        
+        <h2>📌 Funcionalidades</h2>
+        <ul>
+            <li>Catálogo de armas de gel</li>
+            <li>Guias de uso e manutenção</li>
+            <li>Comparação entre modelos</li>
+            <li>Área de reviews e feedbacks</li>
+            <li>Promoções e ofertas especiais</li>
+        </ul>
+        
+        <h2>⚙️ Tecnologias Utilizadas</h2>
+        <ul>
+            <li>HTML, CSS e JavaScript</li>
+            <li>Frameworks modernos para melhor experiência</li>
+            <li>Banco de dados para armazenamento de produtos e avaliações</li>
+        </ul>
+        
+        <h2>🚀 Como Acessar</h2>
+        <p>Basta visitar nosso site pelo seguinte link: <a href="#">www.armasdegel.com</a></p>
+        
+        <h2>📞 Contato</h2>
+        <p>Ficou com dúvidas ou quer saber mais? Entre em contato pelo e-mail: <code>contato@armasdegel.com</code></p>
+        
+        <p><em>Divirta-se e aproveite a melhor experiência com armas de gel! 🔫</em></p>
+    </div>
+</body>
+</html>
